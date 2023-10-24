@@ -118,7 +118,7 @@ class App extends React.Component {
       <div className="App">
 
       <header className="App-header">   
-      <em>Precdictive Maintenance: Transformer Inference</em>
+      <em>Predictive Maintenance: Transformer Inference</em>
       <div><font size="2">If predictive result is true, based on uploading data, please check the components to prevent the system's failure in next step</font></div>
       <Chart  
         width={'400px'}
